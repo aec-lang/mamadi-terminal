@@ -1,0 +1,9 @@
+Package: mamadi-terminal
+Version: 1.0.0
+Architecture: amd64
+Maintainer: termai contributors (replace with the project contact before release)
+Depends: kitty, fish, eza, bat
+Description: Mamadi's final terminal, in one package
+Filename: pool/main/m/mamadi-terminal/mamadi-terminal_1.0.0_amd64.deb
+Size: 10535944
+SHA256: 0b74ea541d13475876adad8af886d1d39af789e4a576b6c75b4f6a6539635c95

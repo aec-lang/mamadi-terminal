@@ -1,0 +1,7 @@
+Origin: mamadi-terminal
+Label: mamadi-terminal
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Mamadi's final terminal - public apt repository
