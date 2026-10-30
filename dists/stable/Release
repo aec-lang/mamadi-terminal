@@ -2,6 +2,10 @@ Origin: mamadi-terminal
 Label: mamadi-terminal
 Suite: stable
 Codename: stable
+Date: Fri, 30 Oct 2026 13:16:49 +0000
 Architectures: amd64
 Components: main
 Description: Mamadi's final terminal - public apt repository
+SHA256:
+ 8d363aa450a6677de1ac8533b2f5fee0a4bebb1df3627dcbca09006dbe99119c 384 main/binary-amd64/Packages
+ f7d87f7da7ae2d11471c682946d69fc0495d4be02f9fd4f1b357931255fd93a9 297 main/binary-amd64/Packages.gz
